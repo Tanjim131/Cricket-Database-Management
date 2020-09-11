@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.ComboBox?>
+<?import javafx.scene.control.DatePicker?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Text?>
+
+
+<AnchorPane prefHeight="814.0" prefWidth="1097.0" xmlns="http://javafx.com/javafx/8.0.141" xmlns:fx="http://javafx.com/fxml/1" fx:controller="databaseBackEnd.InsertNewTournamentController">
+   <children>
+      <Text layoutX="483.0" layoutY="51.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Tournament Information" />
+      <Text layoutX="339.0" layoutY="177.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Tournament Name:" />
+      <TextField fx:id="tName" layoutX="487.0" layoutY="156.0" prefHeight="31.0" prefWidth="218.0" />
+      <DatePicker fx:id="tStartDate" layoutX="487.0" layoutY="215.0" />
+      <DatePicker fx:id="tEndDate" layoutX="487.0" layoutY="265.0" />
+      <ComboBox fx:id="tFormat" layoutX="487.0" layoutY="331.0" prefHeight="31.0" prefWidth="218.0" promptText="Select Format" />
+      <ComboBox fx:id="tTeams" layoutX="487.0" layoutY="392.0" prefHeight="31.0" prefWidth="218.0" promptText="Select Number of Teams" />
+      <ComboBox fx:id="tWinner" layoutX="487.0" layoutY="453.0" prefHeight="31.0" prefWidth="218.0" promptText="Select Winner" />
+      <ComboBox fx:id="tRunnersUp" layoutX="487.0" layoutY="514.0" prefHeight="31.0" prefWidth="218.0" promptText="Select Runners Up" />
+      <Text layoutX="369.0" layoutY="236.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Start Date:" />
+      <Text layoutX="373.0" layoutY="286.0" strokeType="OUTSIDE" strokeWidth="0.0" text="End Date:" />
+      <Text layoutX="378.0" layoutY="352.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Format:" />
+      <Text layoutX="343.0" layoutY="413.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Number of teams:" />
+      <Text layoutX="379.0" layoutY="474.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Winner:" />
+      <Text layoutX="365.0" layoutY="535.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Runners up:" />
+      <Button layoutX="549.0" layoutY="644.0" mnemonicParsing="false" onAction="#create" text="Create" />
+      <Button layoutX="79.0" layoutY="30.0" mnemonicParsing="false" onAction="#back" text="Back" />
+      <Button layoutX="987.0" layoutY="30.0" mnemonicParsing="false" onAction="#logOut" text="Log Out" />
+   </children>
+</AnchorPane>

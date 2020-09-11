@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import com.jfoenix.controls.JFXButton?>
+<?import com.jfoenix.controls.JFXTreeTableView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.paint.LinearGradient?>
+<?import javafx.scene.paint.Stop?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+<AnchorPane prefHeight="876.0" prefWidth="1266.0" style="-fx-background-color: #26619C;" xmlns="http://javafx.com/javafx/8.0.141" xmlns:fx="http://javafx.com/fxml/1" fx:controller="databaseFrontEnd.playerStats.PlayerStatsController">
+   <children>
+      <JFXTreeTableView fx:id="batStatTable" layoutX="-4.0" layoutY="102.0" prefHeight="322.0" prefWidth="1270.0" />
+      <JFXTreeTableView fx:id="bowlStatTable" layoutY="491.0" prefHeight="322.0" prefWidth="1270.0" />
+      <Text fx:id="batStatHeader" fill="WHITE" layoutX="527.0" layoutY="47.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Text">
+         <stroke>
+            <LinearGradient endX="1.0" endY="1.0">
+               <stops>
+                  <Stop color="#c31d1d" />
+                  <Stop color="WHITE" offset="1.0" />
+               </stops>
+            </LinearGradient>
+         </stroke>
+         <font>
+            <Font size="18.0" />
+         </font></Text>
+      <Text fx:id="bowlStatHeader" fill="WHITE" layoutX="527.0" layoutY="463.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Text">
+         <font>
+            <Font size="18.0" />
+         </font></Text>
+      <JFXButton buttonType="RAISED" layoutX="52.0" layoutY="22.0" onAction="#back" prefHeight="31.0" prefWidth="89.0" style="-fx-background-color: #ADFF2F;" text="Back">
+         <font>
+            <Font size="16.0" />
+         </font></JFXButton>
+   </children>
+</AnchorPane>

@@ -1,0 +1,1116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CSE_216/DatabaseBackEnd/Insert1stInningsController.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CSE_216/DatabaseBackEnd/Insert1stInningsController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CSE_216/DatabaseBackEnd/InsertNewMatchController.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CSE_216/DatabaseBackEnd/InsertNewMatchController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CSE_216/DatabaseFrontEnd/CountryListController$1$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CSE_216/DatabaseFrontEnd/CountryListController$1$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CSE_216/DatabaseFrontEnd/HomePage.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CSE_216/DatabaseFrontEnd/HomePage.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CSE_216/DatabaseFrontEnd/PlayerProfile.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CSE_216/DatabaseFrontEnd/PlayerProfile.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CSE_216/DatabaseFrontEnd/playerStats/PlayerStats.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CSE_216/DatabaseFrontEnd/playerStats/PlayerStats.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CSE_216/DatabaseFrontEnd/playerStats/PlayerStatsController.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CSE_216/DatabaseFrontEnd/playerStats/PlayerStatsController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CSE_216/DatabaseFrontEnd/searchPlayer/SearchPlayerController$1$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CSE_216/DatabaseFrontEnd/searchPlayer/SearchPlayerController$1$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CSE_216/DatabaseFrontEnd/welcome/AboutDatabase.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CSE_216/DatabaseFrontEnd/welcome/AboutDatabase.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CSE_216/DatabaseFrontEnd/welcome/WelcomeToDatabase.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CSE_216/DatabaseFrontEnd/welcome/WelcomeToDatabase.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/databaseBackEnd/Insert1stInningsController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/databaseBackEnd/Insert1stInningsController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/databaseBackEnd/InsertNewMatchController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/databaseBackEnd/InsertNewMatchController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/databaseFrontEnd/CountryListController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/databaseFrontEnd/CountryListController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/databaseFrontEnd/HomePage.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/databaseFrontEnd/HomePage.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/databaseFrontEnd/PlayerProfile.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/databaseFrontEnd/PlayerProfile.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/databaseFrontEnd/playerStats/PlayerStats.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/databaseFrontEnd/playerStats/PlayerStats.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/databaseFrontEnd/playerStats/PlayerStatsController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/databaseFrontEnd/playerStats/PlayerStatsController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/databaseFrontEnd/searchPlayer/SearchPlayerController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/databaseFrontEnd/searchPlayer/SearchPlayerController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/databaseFrontEnd/welcome/AboutDatabase.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/databaseFrontEnd/welcome/AboutDatabase.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/databaseFrontEnd/welcome/WelcomeToDatabase.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/databaseFrontEnd/welcome/WelcomeToDatabase.fxml" afterDir="false" />
+    </list>
+    <ignored path="JavaFxApplication.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DebuggerManager">
+    <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true" converted="true">
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+    </breakpoint_any>
+    <ui_properties converted="true" />
+    <breakpoint_rules converted="true" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="JavaFxApplication" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="EmpHomeController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/databaseBackEnd/EmpHomeController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="629">
+              <caret line="48" column="56" selection-start-line="48" selection-start-column="56" selection-end-line="48" selection-end-column="56" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FourthInningsBowlingController.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/databaseBackEnd/inningsPlayer/FourthInningsBowlingController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="508">
+              <caret line="193" column="53" selection-start-line="193" selection-start-column="53" selection-end-line="193" selection-end-column="53" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Insert1stInningsController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/databaseBackEnd/Insert1stInningsController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2363">
+              <caret line="158" column="62" selection-start-line="158" selection-start-column="62" selection-end-line="158" selection-end-column="62" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="InsertNewMatchController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/databaseBackEnd/InsertNewMatchController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="45" column="35" selection-start-line="45" selection-start-column="35" selection-end-line="45" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Query.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/oracleJDBC/Query.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="23" selection-start-line="23" selection-end-line="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Insert.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/oracleJDBC/Insert.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="19" column="52" selection-start-line="19" selection-start-column="52" selection-end-line="19" selection-end-column="52" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="InsertPlayerController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/databaseBackEnd/InsertPlayerController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-529">
+              <caret line="78" column="18" lean-forward="true" selection-start-line="78" selection-start-column="18" selection-end-line="78" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Pl_Sql_Query.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/oracleJDBC/Pl_Sql_Query.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="JDBC.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/oracleJDBC/JDBC.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="459">
+              <caret line="27" column="27" selection-start-line="27" selection-start-column="27" selection-end-line="27" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="InsertNewTournament.fxml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/databaseBackEnd/InsertNewTournament.fxml">
+          <provider selected="true" editor-type-id="text-editor" />
+          <provider editor-type-id="JavaFX-Scene-Builder" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="FxmlFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>String</find>
+      <find>No Matches Found</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>StringProperty</replace>
+    </replaceStrings>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/utilityPackage/BowlerTable.java" />
+        <option value="$PROJECT_DIR$/src/utilityPackage/InningsPair.java" />
+        <option value="$PROJECT_DIR$/src/databaseFrontEnd/scorecard/FirstInnings.fxml" />
+        <option value="$PROJECT_DIR$/src/databaseFrontEnd/scorecard/SecondInnings.fxml" />
+        <option value="$PROJECT_DIR$/src/databaseFrontEnd/scorecard/ThirdInningsController.java" />
+        <option value="$PROJECT_DIR$/src/databaseFrontEnd/scorecard/ThirdInnings.fxml" />
+        <option value="$PROJECT_DIR$/src/databaseFrontEnd/scorecard/SecondInningsController.java" />
+        <option value="$PROJECT_DIR$/src/databaseFrontEnd/scorecard/FirstInningsController.java" />
+        <option value="$PROJECT_DIR$/src/databaseFrontEnd/scorecard/Innings.fxml" />
+        <option value="$PROJECT_DIR$/src/databaseBackEnd/inningsPlayer/FirstInningsBattingController.java" />
+        <option value="$PROJECT_DIR$/src/databaseBackEnd/inningsPlayer/ThirdInningsBattingController.java" />
+        <option value="$PROJECT_DIR$/src/databaseBackEnd/inningsPlayer/FourthInningsBattingController.java" />
+        <option value="$PROJECT_DIR$/src/databaseBackEnd/inningsPlayer/SecondInningsBowlingController.java" />
+        <option value="$PROJECT_DIR$/src/databaseBackEnd/inningsPlayer/ThirdInningsBowlingController.java" />
+        <option value="$PROJECT_DIR$/src/databaseFrontEnd/BilateralSeriesTableController.java" />
+        <option value="$PROJECT_DIR$/src/databaseBackEnd/InsertTournamentController.java" />
+        <option value="$PROJECT_DIR$/src/databaseBackEnd/inningsPlayer/FourthInningsBowlingController.java" />
+        <option value="$PROJECT_DIR$/src/databaseFrontEnd/table/Score.java" />
+        <option value="$PROJECT_DIR$/src/databaseFrontEnd/scorecard/InningsController.java" />
+        <option value="$PROJECT_DIR$/src/databaseFrontEnd/WelcomeToDatabaseController.java" />
+        <option value="$PROJECT_DIR$/src/databaseFrontEnd/welcome/WelcomeToDatabase.fxml" />
+        <option value="$PROJECT_DIR$/src/databaseFrontEnd/Main.java" />
+        <option value="$PROJECT_DIR$/src/databaseFrontEnd/welcome/AboutDatabase.fxml" />
+        <option value="$PROJECT_DIR$/src/databaseFrontEnd/welcome/AboutDatabaseController.java" />
+        <option value="$PROJECT_DIR$/src/databaseFrontEnd/HomePage.fxml" />
+        <option value="$PROJECT_DIR$/src/databaseFrontEnd/welcome/WelcomeToDatabaseController.java" />
+        <option value="$PROJECT_DIR$/src/databaseFrontEnd/HomePageController.java" />
+        <option value="$PROJECT_DIR$/src/databaseFrontEnd/AdminLoginController.java" />
+        <option value="$PROJECT_DIR$/src/databaseFrontEnd/EmpLoginController.java" />
+        <option value="$PROJECT_DIR$/src/databaseFrontEnd/SearchBilateralSeriesController.java" />
+        <option value="$PROJECT_DIR$/src/databaseBackEnd/InsertNewTournamentController.java" />
+        <option value="$PROJECT_DIR$/src/databaseFrontEnd/table/Country.java" />
+        <option value="$PROJECT_DIR$/src/databaseFrontEnd/CountryTable.css" />
+        <option value="$PROJECT_DIR$/src/databaseFrontEnd/searchPlayer/SearchPlayer.fxml" />
+        <option value="$PROJECT_DIR$/src/databaseFrontEnd/table/Player.java" />
+        <option value="$PROJECT_DIR$/src/databaseFrontEnd/searchPlayer/dark-theme.css" />
+        <option value="$PROJECT_DIR$/src/databaseFrontEnd/searchPlayer/SearchPlayerQueryController.java" />
+        <option value="$PROJECT_DIR$/src/utilityPackage/UtilityClass.java" />
+        <option value="$PROJECT_DIR$/src/databaseFrontEnd/MatchTableController.java" />
+        <option value="$PROJECT_DIR$/src/databaseBackEnd/Insert2ndInningsController.java" />
+        <option value="$PROJECT_DIR$/src/databaseBackEnd/playerStats/PlayerStats.fxml" />
+        <option value="$PROJECT_DIR$/src/databaseBackEnd/playerStats/PlayerStatsController.java" />
+        <option value="$PROJECT_DIR$/src/databaseFrontEnd/PlayerProfileController.java" />
+        <option value="$PROJECT_DIR$/src/databaseFrontEnd/playerStats/PlayerStats.fxml" />
+        <option value="$PROJECT_DIR$/src/databaseFrontEnd/table/BattingStat.java" />
+        <option value="$PROJECT_DIR$/src/databaseFrontEnd/table/BowlingStat.java" />
+        <option value="$PROJECT_DIR$/src/databaseFrontEnd/playerStats/PlayerStatsController.java" />
+        <option value="$PROJECT_DIR$/src/databaseFrontEnd/CountryListController.java" />
+        <option value="$PROJECT_DIR$/src/databaseFrontEnd/searchPlayer/SearchPlayerController.java" />
+        <option value="$PROJECT_DIR$/src/databaseBackEnd/Insert1stInningsController.java" />
+        <option value="$PROJECT_DIR$/src/databaseBackEnd/InsertNewMatchController.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-10" />
+    <option name="y" value="-10" />
+    <option name="width" value="1613" />
+    <option name="height" value="878" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Android</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="CSE_216" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CSE_216" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CSE_216" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CSE_216" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CSE_216" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CSE_216" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="databaseBackEnd" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CSE_216" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CSE_216" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="databaseFrontEnd" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CSE_216" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CSE_216" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="databaseFrontEnd" type="462c0819:PsiDirectoryNode" />
+              <item name="table" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="OverrideImplement.combined" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="dynamic.classpath" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="recentsLimit" value="5" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.build" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\DELL\IdeaProjects\CSE_216\src\databaseFrontEnd" />
+      <recent name="C:\Users\DELL\IdeaProjects\CSE_216\src\databaseFrontEnd\scorecard" />
+      <recent name="C:\Users\DELL\IdeaProjects\CSE_216\src\databaseBackEnd\inningsPlayer" />
+      <recent name="C:\Users\DELL\IdeaProjects\CSE_216\src\databaseFrontEnd\searchPlayer" />
+      <recent name="C:\Users\DELL\IdeaProjects\CSE_216\src\databaseBackEnd" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="databaseFrontEnd.Main" />
+      <module name="CSE_216" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="databaseFrontEnd.welcome.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+    </configuration>
+    <configuration name="Pl_Sql_Query" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oracleJDBC.Pl_Sql_Query" />
+      <module name="CSE_216" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="oracleJDBC.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Query" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oracleJDBC.Query" />
+      <module name="CSE_216" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="oracleJDBC.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="UtilityClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="utilityPackage.UtilityClass" />
+      <module name="CSE_216" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="utilityPackage.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="testInsert" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OracleJDBC.testInsert" />
+      <module name="CSE_216" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="oracleJDBC.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <option name="VMOptions" />
+      <option name="arguments" />
+      <option name="filePath" />
+      <option name="scope" value="ALL" />
+      <option name="testName" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
+      <Host>localhost</Host>
+      <Port>5050</Port>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.testInsert" />
+      <item itemvalue="Application.UtilityClass" />
+      <item itemvalue="Application.Query" />
+      <item itemvalue="Application.Pl_Sql_Query" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Pl_Sql_Query" />
+        <item itemvalue="Application.Query" />
+        <item itemvalue="Application.UtilityClass" />
+        <item itemvalue="Application.testInsert" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="" />
+      <created>1359379246138</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1359379246138</updated>
+      <workItem from="1359379250712" duration="1302000" />
+      <workItem from="1511959855973" duration="187000" />
+      <workItem from="1512058268394" duration="74000" />
+      <workItem from="1512058419041" duration="1282000" />
+      <workItem from="1512060263248" duration="1172000" />
+      <workItem from="1512061463226" duration="2053000" />
+      <workItem from="1512134738113" duration="5288000" />
+      <workItem from="1512142833709" duration="927000" />
+      <workItem from="1512143818612" duration="615000" />
+      <workItem from="1512152287528" duration="3371000" />
+      <workItem from="1512205883719" duration="3505000" />
+      <workItem from="1512287195013" duration="396000" />
+      <workItem from="1512289710153" duration="216000" />
+      <workItem from="1512293577850" duration="1913000" />
+      <workItem from="1512299687778" duration="573000" />
+      <workItem from="1512343056438" duration="9223000" />
+      <workItem from="1512363664276" duration="4190000" />
+      <workItem from="1512372537391" duration="30267000" />
+      <workItem from="1512446641868" duration="389000" />
+      <workItem from="1512454195705" duration="1503000" />
+      <workItem from="1512633383308" duration="392000" />
+      <workItem from="1512660322943" duration="1207000" />
+      <workItem from="1513494466779" duration="5207000" />
+      <workItem from="1513508356369" duration="782000" />
+      <workItem from="1513513927703" duration="59000" />
+      <workItem from="1513514080690" duration="20034000" />
+      <workItem from="1513548673707" duration="43000" />
+      <workItem from="1513580110825" duration="18249000" />
+      <workItem from="1513655421508" duration="722000" />
+      <workItem from="1513665549665" duration="1972000" />
+      <workItem from="1513752860693" duration="514000" />
+      <workItem from="1513783706733" duration="1859000" />
+      <workItem from="1513853600279" duration="3738000" />
+      <workItem from="1513865768752" duration="23000" />
+      <workItem from="1514207837791" duration="20698000" />
+      <workItem from="1514241579249" duration="43000" />
+      <workItem from="1514241788007" duration="604000" />
+      <workItem from="1514274792129" duration="34000" />
+      <workItem from="1514723617214" duration="2625000" />
+      <workItem from="1514960521463" duration="5866000" />
+      <workItem from="1515140629995" duration="9204000" />
+      <workItem from="1515154347126" duration="17767000" />
+      <workItem from="1515215381261" duration="33913000" />
+      <workItem from="1515387117564" duration="416000" />
+      <workItem from="1515398479508" duration="10946000" />
+      <workItem from="1515412655739" duration="2254000" />
+      <workItem from="1515415676336" duration="1786000" />
+      <workItem from="1515435261343" duration="20193000" />
+      <workItem from="1515466182461" duration="266000" />
+      <workItem from="1515473287790" duration="5386000" />
+      <workItem from="1515479642038" duration="594000" />
+      <workItem from="1515571619780" duration="5038000" />
+      <workItem from="1515734824602" duration="7280000" />
+      <workItem from="1515771345521" duration="599000" />
+      <workItem from="1515803441794" duration="19000" />
+      <workItem from="1516009306291" duration="2421000" />
+      <workItem from="1516020254917" duration="1581000" />
+      <workItem from="1516028548958" duration="28737000" />
+      <workItem from="1516072468182" duration="19786000" />
+      <workItem from="1516094847979" duration="3764000" />
+      <workItem from="1516199941734" duration="69000" />
+      <workItem from="1516200111297" duration="1448000" />
+      <workItem from="1516260866174" duration="8572000" />
+      <workItem from="1516273533529" duration="27598000" />
+      <workItem from="1516340065468" duration="8689000" />
+      <workItem from="1516426374466" duration="1672000" />
+      <workItem from="1516448892967" duration="4489000" />
+      <workItem from="1516471460053" duration="4132000" />
+      <workItem from="1516519722702" duration="2122000" />
+      <workItem from="1516526170142" duration="6800000" />
+      <workItem from="1516563072548" duration="599000" />
+      <workItem from="1516565463997" duration="27888000" />
+      <workItem from="1516629979937" duration="15268000" />
+      <workItem from="1516689200723" duration="1795000" />
+      <workItem from="1516695758200" duration="1242000" />
+      <workItem from="1516706414184" duration="15019000" />
+      <workItem from="1516743269121" duration="1816000" />
+      <workItem from="1516763629667" duration="314000" />
+      <workItem from="1516768523081" duration="1473000" />
+      <workItem from="1516773428846" duration="4689000" />
+      <workItem from="1516862375848" duration="1407000" />
+      <workItem from="1517688717812" duration="49000" />
+      <workItem from="1517688879542" duration="721000" />
+      <workItem from="1517866073311" duration="4000" />
+      <workItem from="1519685443346" duration="4000" />
+      <workItem from="1520336657259" duration="6000" />
+      <workItem from="1520352721448" duration="4000" />
+      <workItem from="1521821153136" duration="46000" />
+      <workItem from="1521821279290" duration="7000" />
+      <workItem from="1521906982098" duration="28000" />
+      <workItem from="1523542009306" duration="94000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="463131000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-6" y="-6" width="1549" height="837" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" order="14" weight="0.32928178" />
+      <window_info anchor="right" id="Palette&#9;" order="9" />
+      <window_info id="Image Layers" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" order="4" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3278237" />
+      <window_info anchor="bottom" id="Version Control" order="11" />
+      <window_info anchor="bottom" id="Terminal" order="13" weight="0.32928178" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.6703755" visible="true" weight="0.17111255" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info anchor="right" id="JetGradle" order="6" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32928178" />
+      <window_info anchor="bottom" id="Changes" order="10" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Profiler" order="9" />
+      <window_info anchor="bottom" id="Problems" order="12" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Application Servers" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
+    <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="6" />
+    </breakpoint-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/databaseFrontEnd/welcome/WelcomeToDatabase.fxml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="638">
+          <caret line="27" column="13" lean-forward="true" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
+        </state>
+      </provider>
+      <provider editor-type-id="JavaFX-Scene-Builder" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/databaseFrontEnd/welcome/AboutDatabase.fxml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="8" column="180" lean-forward="true" selection-start-line="8" selection-start-column="180" selection-end-line="8" selection-end-column="180" />
+        </state>
+      </provider>
+      <provider editor-type-id="JavaFX-Scene-Builder" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/databaseFrontEnd/HomePage.fxml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="28" column="48" selection-start-line="28" selection-start-column="48" selection-end-line="28" selection-end-column="48" />
+        </state>
+      </provider>
+      <provider editor-type-id="JavaFX-Scene-Builder" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/databaseFrontEnd/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="16" column="61" lean-forward="true" selection-start-line="16" selection-start-column="61" selection-end-line="16" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/javafx-src.zip!/javafx/stage/Window.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="528" column="23" selection-start-line="528" selection-start-column="23" selection-end-line="528" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/javafx-src.zip!/javafx/stage/Stage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="236">
+          <caret line="251" column="20" lean-forward="true" selection-start-line="251" selection-start-column="20" selection-end-line="251" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/jfoenix-8.0.1.jar!/com/jfoenix/controls/JFXSnackbar.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="172">
+          <caret line="79" selection-start-line="79" selection-end-line="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/databaseFrontEnd/welcome/WelcomeToDatabaseController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-59">
+          <caret line="20" column="9" lean-forward="true" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/databaseBackEnd/InsertNewTournamentController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="478">
+          <caret line="51" column="25" selection-start-line="51" selection-start-column="25" selection-end-line="51" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/databaseFrontEnd/AdminLoginController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="47" column="38" lean-forward="true" selection-start-line="47" selection-start-column="38" selection-end-line="47" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="652" selection-start-line="652" selection-end-line="652" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/databaseFrontEnd/PlayerProfile.fxml">
+      <provider selected="true" editor-type-id="text-editor" />
+      <provider editor-type-id="JavaFX-Scene-Builder" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/databaseFrontEnd/CountryTable.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="34" column="16" selection-start-line="34" selection-start-column="16" selection-end-line="34" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/databaseFrontEnd/searchPlayer/SearchPlayer.fxml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="13" column="15" lean-forward="true" selection-start-line="13" selection-start-column="15" selection-end-line="13" selection-end-column="15" />
+        </state>
+      </provider>
+      <provider editor-type-id="JavaFX-Scene-Builder" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/databaseFrontEnd/table/Player.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="13" column="40" selection-start-line="13" selection-start-column="40" selection-end-line="13" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/databaseFrontEnd/searchPlayer/dark-theme.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1166">
+          <caret line="53" column="38" selection-start-line="53" selection-start-column="38" selection-end-line="53" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/databaseFrontEnd/searchPlayer/SearchPlayerQueryController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3454">
+          <caret line="182" column="33" selection-start-line="182" selection-start-column="33" selection-end-line="182" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/databaseFrontEnd/HomePageController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1144">
+          <caret line="70" column="20" selection-start-line="70" selection-start-column="20" selection-end-line="70" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/databaseFrontEnd/SearchBilateralSeriesController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="56" column="57" selection-start-line="56" selection-start-column="57" selection-end-line="56" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/databaseFrontEnd/CountryList.fxml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="16" column="14" lean-forward="true" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
+        </state>
+      </provider>
+      <provider editor-type-id="JavaFX-Scene-Builder" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/utilityPackage/UtilityClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="176" column="12" selection-start-line="176" selection-start-column="12" selection-end-line="176" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/databaseFrontEnd/scorecard/InningsController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-301">
+          <caret line="169" column="27" selection-start-line="169" selection-start-column="27" selection-end-line="169" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/databaseFrontEnd/BilateralSeriesTableController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-49">
+          <caret line="207" column="17" selection-start-line="207" selection-start-column="17" selection-end-line="207" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/databaseFrontEnd/MatchTableController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="94" column="44" selection-start-line="94" selection-start-column="44" selection-end-line="94" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/databaseBackEnd/inningsPlayer/FirstInningsBattingController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-198">
+          <caret line="32" column="18" lean-forward="true" selection-start-line="32" selection-start-column="18" selection-end-line="32" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/databaseBackEnd/inningsPlayer/FirstInningsBowlingController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="37" column="9" lean-forward="true" selection-start-line="37" selection-start-column="9" selection-end-line="37" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/databaseBackEnd/Insert2ndInningsController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="104" column="9" lean-forward="true" selection-start-line="104" selection-start-column="9" selection-end-line="104" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/databaseFrontEnd/table/Country.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/databaseFrontEnd/playerStats/PlayerStats.fxml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="96" selection-start-line="14" selection-start-column="96" selection-end-line="14" selection-end-column="96" />
+        </state>
+      </provider>
+      <provider editor-type-id="JavaFX-Scene-Builder" />
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/javafx-src.zip!/javafx/util/Callback.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="402">
+          <caret line="51" column="13" selection-start-line="51" selection-start-column="13" selection-end-line="51" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/databaseFrontEnd/PlayerProfileController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1738">
+          <caret line="96" selection-start-line="96" selection-end-line="96" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/databaseFrontEnd/table/BattingStat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2508">
+          <caret line="188" column="46" selection-start-line="188" selection-start-column="46" selection-end-line="188" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/databaseFrontEnd/table/BowlingStat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2002">
+          <caret line="153" column="18" selection-start-line="153" selection-start-column="18" selection-end-line="153" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/databaseFrontEnd/playerStats/PlayerStatsController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4620">
+          <caret line="236" column="11" selection-start-line="236" selection-start-column="11" selection-end-line="236" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/databaseFrontEnd/CountryListController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1826">
+          <caret line="108" column="13" selection-start-line="108" selection-start-column="13" selection-end-line="108" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/databaseFrontEnd/searchPlayer/SearchPlayerController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="145" column="35" selection-start-line="145" selection-start-column="35" selection-end-line="145" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/databaseBackEnd/inningsPlayer/SecondInningsBowling.fxml">
+      <provider selected="true" editor-type-id="text-editor" />
+      <provider editor-type-id="JavaFX-Scene-Builder" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/databaseBackEnd/inningsPlayer/SecondInningsBattingController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/databaseBackEnd/inningsPlayer/SecondInningsBowlingController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3674">
+          <caret line="194" column="62" selection-start-line="194" selection-start-column="62" selection-end-line="194" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/databaseBackEnd/InsertTournamentController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="38" selection-start-line="22" selection-start-column="38" selection-end-line="22" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/databaseFrontEnd/EmpLoginController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="792">
+          <caret line="53" column="51" selection-start-line="53" selection-start-column="51" selection-end-line="53" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/databaseBackEnd/EmpHomeController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="629">
+          <caret line="48" column="56" selection-start-line="48" selection-start-column="56" selection-end-line="48" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/databaseBackEnd/InsertNewTournament.fxml">
+      <provider selected="true" editor-type-id="text-editor" />
+      <provider editor-type-id="JavaFX-Scene-Builder" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/databaseBackEnd/Insert1stInningsController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2363">
+          <caret line="158" column="62" selection-start-line="158" selection-start-column="62" selection-end-line="158" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/databaseBackEnd/InsertNewMatchController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="45" column="35" selection-start-line="45" selection-start-column="35" selection-end-line="45" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/oracleJDBC/Pl_Sql_Query.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/oracleJDBC/JDBC.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" column="27" selection-start-line="27" selection-start-column="27" selection-end-line="27" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/oracleJDBC/Query.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/oracleJDBC/Insert.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="19" column="52" selection-start-line="19" selection-start-column="52" selection-end-line="19" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/databaseBackEnd/InsertPlayerController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-529">
+          <caret line="78" column="18" lean-forward="true" selection-start-line="78" selection-start-column="18" selection-end-line="78" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/databaseBackEnd/inningsPlayer/FourthInningsBowlingController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="508">
+          <caret line="193" column="53" selection-start-line="193" selection-start-column="53" selection-end-line="193" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>CSE_216</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

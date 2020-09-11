@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Text?>
+
+<AnchorPane prefHeight="883.0" prefWidth="1282.0" xmlns="http://javafx.com/javafx/8.0.141" xmlns:fx="http://javafx.com/fxml/1" fx:controller="databaseFrontEnd.scorecard.InningsController">
+   <children>
+      <TableView fx:id="inningsBatting" layoutX="1.0" layoutY="127.0" prefHeight="315.0" prefWidth="1288.0" />
+      <Label fx:id="inningsBTeam" layoutX="140.0" layoutY="82.0" text="Label" />
+      <Text layoutX="29.0" layoutY="98.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Batting Team:" />
+      <TableView fx:id="inningsBowling" layoutX="1.0" layoutY="517.0" prefHeight="337.0" prefWidth="1288.0" />
+      <Label fx:id="inningsFTeam" layoutX="145.0" layoutY="472.0" text="Label" />
+      <Text layoutX="34.0" layoutY="488.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Fielding Team:" />
+      <Button layoutX="60.0" layoutY="25.0" mnemonicParsing="false" onAction="#back" text="Back" />
+      <Button layoutX="1131.0" layoutY="25.0" mnemonicParsing="false" onAction="#nextPage" text="Next Page" />
+      <Label fx:id="inningsHeader" layoutX="591.0" layoutY="30.0" prefHeight="21.0" prefWidth="108.0" />
+   </children>
+</AnchorPane>

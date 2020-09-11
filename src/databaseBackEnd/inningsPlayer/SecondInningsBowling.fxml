@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.ComboBox?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Text?>
+
+<AnchorPane fx:id="aPane" prefHeight="904.0" prefWidth="1292.0" xmlns="http://javafx.com/javafx/8.0.141" xmlns:fx="http://javafx.com/fxml/1" fx:controller="databaseBackEnd.inningsPlayer.SecondInningsBowlingController">
+   <children>
+      <ComboBox fx:id="player1Name" layoutX="173.0" layoutY="147.0" prefHeight="31.0" prefWidth="181.0" promptText="Select Player Name" />
+      <TextField fx:id="player1Over" layoutX="433.0" layoutY="147.0" prefHeight="31.0" prefWidth="93.0" />
+      <TextField fx:id="player1Runs" layoutX="623.0" layoutY="147.0" prefHeight="31.0" prefWidth="93.0" />
+      <TextField fx:id="player1Wickets" layoutX="803.0" layoutY="147.0" prefHeight="31.0" prefWidth="93.0" />
+      <TextField fx:id="player1Catches" layoutX="973.0" layoutY="147.0" prefHeight="31.0" prefWidth="93.0" />
+      <ComboBox fx:id="player2Name" layoutX="173.0" layoutY="207.0" prefHeight="31.0" prefWidth="181.0" promptText="Select Player Name" />
+      <TextField fx:id="player2Over" layoutX="433.0" layoutY="207.0" prefHeight="31.0" prefWidth="93.0" />
+      <TextField fx:id="player2Runs" layoutX="623.0" layoutY="207.0" prefHeight="31.0" prefWidth="93.0" />
+      <TextField fx:id="player2Wickets" layoutX="803.0" layoutY="207.0" prefHeight="31.0" prefWidth="93.0" />
+      <TextField fx:id="player2Catches" layoutX="973.0" layoutY="207.0" prefHeight="31.0" prefWidth="93.0" />
+      <ComboBox fx:id="player3Name" layoutX="173.0" layoutY="268.0" prefHeight="31.0" prefWidth="181.0" promptText="Select Player Name" />
+      <TextField fx:id="player3Over" layoutX="433.0" layoutY="277.0" prefHeight="31.0" prefWidth="93.0" />
+      <TextField fx:id="player3Runs" layoutX="623.0" layoutY="277.0" prefHeight="31.0" prefWidth="93.0" />
+      <TextField fx:id="player3Wickets" layoutX="803.0" layoutY="277.0" prefHeight="31.0" prefWidth="93.0" />
+      <TextField fx:id="player3Catches" layoutX="973.0" layoutY="277.0" prefHeight="31.0" prefWidth="93.0" />
+      <ComboBox fx:id="player4Name" layoutX="173.0" layoutY="326.0" prefHeight="31.0" prefWidth="181.0" promptText="Select Player Name" />
+      <TextField fx:id="player4Over" layoutX="433.0" layoutY="337.0" prefHeight="31.0" prefWidth="93.0" />
+      <TextField fx:id="player4Runs" layoutX="623.0" layoutY="337.0" prefHeight="31.0" prefWidth="93.0" />
+      <TextField fx:id="player4Wickets" layoutX="803.0" layoutY="337.0" prefHeight="31.0" prefWidth="93.0" />
+      <TextField fx:id="player4Catches" layoutX="973.0" layoutY="337.0" prefHeight="31.0" prefWidth="93.0" />
+      <ComboBox fx:id="player5Name" layoutX="173.0" layoutY="386.0" prefHeight="31.0" prefWidth="181.0" promptText="Select Player Name" />
+      <TextField fx:id="player5Over" layoutX="433.0" layoutY="387.0" prefHeight="31.0" prefWidth="93.0" />
+      <TextField fx:id="player5Runs" layoutX="623.0" layoutY="387.0" prefHeight="31.0" prefWidth="93.0" />
+      <TextField fx:id="player5Wickets" layoutX="803.0" layoutY="387.0" prefHeight="31.0" prefWidth="93.0" />
+      <TextField fx:id="player5Catches" layoutX="973.0" layoutY="387.0" prefHeight="31.0" prefWidth="93.0" />
+      <ComboBox fx:id="player6Name" layoutX="173.0" layoutY="444.0" prefHeight="31.0" prefWidth="181.0" promptText="Select Player Name" />
+      <TextField fx:id="player6Over" layoutX="433.0" layoutY="447.0" prefHeight="31.0" prefWidth="93.0" />
+      <TextField fx:id="player6Runs" layoutX="623.0" layoutY="447.0" prefHeight="31.0" prefWidth="93.0" />
+      <TextField fx:id="player6Wickets" layoutX="803.0" layoutY="447.0" prefHeight="31.0" prefWidth="93.0" />
+      <TextField fx:id="player6Catches" layoutX="973.0" layoutY="447.0" prefHeight="31.0" prefWidth="93.0" />
+      <ComboBox fx:id="player7Name" layoutX="173.0" layoutY="510.0" prefHeight="31.0" prefWidth="181.0" promptText="Select Player Name" />
+      <TextField fx:id="player7Over" layoutX="433.0" layoutY="507.0" prefHeight="31.0" prefWidth="93.0" />
+      <TextField fx:id="player7Runs" layoutX="623.0" layoutY="507.0" prefHeight="31.0" prefWidth="93.0" />
+      <TextField fx:id="player7Wickets" layoutX="803.0" layoutY="507.0" prefHeight="31.0" prefWidth="93.0" />
+      <TextField fx:id="player7Catches" layoutX="973.0" layoutY="507.0" prefHeight="31.0" prefWidth="93.0" />
+      <ComboBox fx:id="player8Name" layoutX="173.0" layoutY="571.0" prefHeight="31.0" prefWidth="181.0" promptText="Select Player Name" />
+      <TextField fx:id="player8Over" layoutX="433.0" layoutY="567.0" prefHeight="31.0" prefWidth="93.0" />
+      <TextField fx:id="player8Runs" layoutX="623.0" layoutY="567.0" prefHeight="31.0" prefWidth="93.0" />
+      <TextField fx:id="player8Wickets" layoutX="803.0" layoutY="567.0" prefHeight="31.0" prefWidth="93.0" />
+      <TextField fx:id="player8Catches" layoutX="973.0" layoutY="567.0" prefHeight="31.0" prefWidth="93.0" />
+      <ComboBox fx:id="player9Name" layoutX="173.0" layoutY="633.0" prefHeight="31.0" prefWidth="181.0" promptText="Select Player Name" />
+      <TextField fx:id="player9Over" layoutX="433.0" layoutY="627.0" prefHeight="31.0" prefWidth="93.0" />
+      <TextField fx:id="player9Runs" layoutX="623.0" layoutY="627.0" prefHeight="31.0" prefWidth="93.0" />
+      <TextField fx:id="player9Wickets" layoutX="803.0" layoutY="627.0" prefHeight="31.0" prefWidth="93.0" />
+      <TextField fx:id="player9Catches" layoutX="973.0" layoutY="627.0" prefHeight="31.0" prefWidth="93.0" />
+      <ComboBox fx:id="player10Name" layoutX="173.0" layoutY="692.0" prefHeight="31.0" prefWidth="181.0" promptText="Select Player Name" />
+      <TextField fx:id="player10Over" layoutX="433.0" layoutY="687.0" prefHeight="31.0" prefWidth="93.0" />
+      <TextField fx:id="player10Runs" layoutX="623.0" layoutY="687.0" prefHeight="31.0" prefWidth="93.0" />
+      <TextField fx:id="player10Wickets" layoutX="803.0" layoutY="687.0" prefHeight="31.0" prefWidth="93.0" />
+      <TextField fx:id="player10Catches" layoutX="973.0" layoutY="687.0" prefHeight="31.0" prefWidth="93.0" />
+      <ComboBox fx:id="wicketKeeperName" layoutX="173.0" layoutY="806.0" prefHeight="31.0" prefWidth="202.0" promptText="Select Wicket Keeper" />
+      <TextField fx:id="wicketKeeperCatches" layoutX="433.0" layoutY="807.0" prefHeight="31.0" prefWidth="93.0" />
+      <TextField fx:id="wicketKeeperStumpings" layoutX="623.0" layoutY="807.0" prefHeight="31.0" prefWidth="93.0" />
+      <Button layoutX="1141.0" layoutY="29.0" mnemonicParsing="false" onAction="#nextPage" text="Next Page" />
+      <Label fx:id="headline" layoutX="665.0" layoutY="34.0" text="Label" />
+      <Text layoutX="994.0" layoutY="107.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Catches" />
+      <Text layoutX="802.0" layoutY="106.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Wickets Taken" />
+      <Text layoutX="618.0" layoutY="107.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Runs Conceded" />
+      <Text layoutX="434.0" layoutY="106.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Overs Bowled" />
+      <Text layoutX="454.0" layoutY="769.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Catches" />
+      <Text layoutX="634.0" layoutY="768.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Stumpings" />
+      <Text layoutX="88.0" layoutY="168.0" strokeType="OUTSIDE" strokeWidth="0.0" text="1." />
+      <Text layoutX="88.0" layoutY="228.0" strokeType="OUTSIDE" strokeWidth="0.0" text="2." />
+      <Text layoutX="88.0" layoutY="288.0" strokeType="OUTSIDE" strokeWidth="0.0" text="3." />
+      <Text layoutX="88.0" layoutY="348.0" strokeType="OUTSIDE" strokeWidth="0.0" text="4." />
+      <Text layoutX="88.0" layoutY="408.0" strokeType="OUTSIDE" strokeWidth="0.0" text="5." />
+      <Text layoutX="88.0" layoutY="468.0" strokeType="OUTSIDE" strokeWidth="0.0" text="6." />
+      <Text layoutX="88.0" layoutY="528.0" strokeType="OUTSIDE" strokeWidth="0.0" text="7." />
+      <Text layoutX="88.0" layoutY="587.0" strokeType="OUTSIDE" strokeWidth="0.0" text="8." />
+      <Text layoutX="88.0" layoutY="648.0" strokeType="OUTSIDE" strokeWidth="0.0" text="9." />
+      <Text layoutX="88.0" layoutY="708.0" strokeType="OUTSIDE" strokeWidth="0.0" text="10." />
+      <Text layoutX="88.0" layoutY="828.0" strokeType="OUTSIDE" strokeWidth="0.0" text="11." />
+      <Button layoutX="75.0" layoutY="29.0" mnemonicParsing="false" onAction="#homePage" text="Go to home page" />
+   </children>
+</AnchorPane>

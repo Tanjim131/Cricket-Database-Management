@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.ComboBox?>
+<?import javafx.scene.control.DatePicker?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane fx:id="insertPlayerPane" prefHeight="840.0" prefWidth="1174.0" xmlns="http://javafx.com/javafx/8.0.141" xmlns:fx="http://javafx.com/fxml/1" fx:controller="databaseBackEnd.InsertPlayerController">
+   <children>
+      <Label layoutX="343.0" layoutY="210.0" text="Country Name:" />
+      <Label layoutX="320.0" layoutY="97.0" text="Player First Name:" />
+      <Label layoutX="360.0" layoutY="261.0" text="Gender:" />
+      <Label layoutX="344.0" layoutY="319.0" text="Playing Role:" />
+      <Label layoutX="336.0" layoutY="376.0" text="Batting Style:" />
+      <Label layoutX="333.0" layoutY="439.0" text="Bowling Style:" />
+      <Label layoutX="344.0" layoutY="497.0" text="Birth Date:" />
+      <Label layoutX="331.0" layoutY="552.0" text="Test Debut Date:" />
+      <TextField fx:id="playerFirstName" layoutX="473.0" layoutY="92.0" prefHeight="31.0" prefWidth="228.0" />
+      <TextField fx:id="playerLastName" layoutX="473.0" layoutY="148.0" prefHeight="31.0" prefWidth="228.0" />
+      <ComboBox fx:id="countryName" layoutX="473.0" layoutY="205.0" prefHeight="31.0" prefWidth="228.0" promptText="Select Country" />
+      <ComboBox fx:id="playerGender" layoutX="475.0" layoutY="257.0" prefHeight="31.0" prefWidth="228.0" promptText="Select Gender" />
+      <ComboBox fx:id="playingRole" layoutX="473.0" layoutY="314.0" prefHeight="31.0" prefWidth="228.0" promptText="Select Playing Role" />
+      <ComboBox fx:id="battingStyle" layoutX="475.0" layoutY="371.0" prefHeight="31.0" prefWidth="228.0" promptText="Select Batting Style" />
+      <ComboBox fx:id="bowlingStyle" layoutX="475.0" layoutY="434.0" prefHeight="31.0" prefWidth="228.0" promptText="Select Bowling Style" />
+      <DatePicker fx:id="playerBirthdate" layoutX="473.0" layoutY="492.0" prefHeight="31.0" prefWidth="228.0" />
+      <DatePicker fx:id="playerTestDebut" layoutX="475.0" layoutY="547.0" prefHeight="31.0" prefWidth="228.0" />
+      <DatePicker fx:id="playerODIDebut" layoutX="475.0" layoutY="609.0" prefHeight="31.0" prefWidth="228.0" />
+      <DatePicker fx:id="playerT20Debut" layoutX="475.0" layoutY="667.0" prefHeight="31.0" prefWidth="228.0" />
+      <Label layoutX="333.0" layoutY="614.0" text="ODI Debut Date" />
+      <Label layoutX="340.0" layoutY="672.0" text="T20 Debut Date" />
+      <Button fx:id="createPlayerButton" layoutX="535.0" layoutY="732.0" mnemonicParsing="false" onAction="#createPlayer" text="Create Player" />
+      <Label layoutX="459.0" layoutY="14.0" text="Player Information">
+         <font>
+            <Font size="25.0" />
+         </font>
+      </Label>
+      <Button fx:id="logOutButton" layoutX="924.0" layoutY="256.0" mnemonicParsing="false" onAction="#logOut" text="Logout" />
+      <Button fx:id="insertPlayerBackButton" layoutX="933.0" layoutY="324.0" mnemonicParsing="false" onAction="#insertPlayerBack" text="Back" />
+      <Label layoutX="329.0" layoutY="153.0" text="Player Last Name:" />
+   </children>
+</AnchorPane>

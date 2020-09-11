@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import com.jfoenix.controls.JFXButton?>
+<?import com.jfoenix.controls.JFXTextField?>
+<?import com.jfoenix.controls.JFXTreeTableView?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+<AnchorPane prefHeight="842.0" prefWidth="1211.0" xmlns="http://javafx.com/javafx/8.0.141" xmlns:fx="http://javafx.com/fxml/1" fx:controller="databaseFrontEnd.CountryListController">
+   <children>
+      <Label layoutX="550.0" layoutY="23.0" prefHeight="30.0" prefWidth="112.0" text="Country List">
+         <font>
+            <Font size="20.0" />
+         </font>
+      </Label>
+      <JFXTreeTableView fx:id="countryTable" layoutY="70.0" prefHeight="770.0" prefWidth="1211.0" stylesheets="@CountryTable.css" />
+      <JFXTextField fx:id="countrySearch" layoutX="178.0" layoutY="23.0" />
+      <Text layoutX="21.0" layoutY="44.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Search Country">
+         <font>
+            <Font size="18.0" />
+         </font>
+      </Text>
+      <JFXButton buttonType="RAISED" layoutX="1083.0" layoutY="23.0" onAction="#back" prefHeight="31.0" prefWidth="69.0" ripplerFill="#f21717" style="-fx-background-color: #FFE135;" text="Back" />
+   </children>
+</AnchorPane>
